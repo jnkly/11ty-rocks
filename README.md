@@ -31,5 +31,5 @@ You will need to install:
 
 Find out more about 11ty.
 
-[11ty](https://www.11ty.dev/)
-[11ty Rocks!](https://www.youtube.com/channel/UCTuSQg_Ol4shhSYQ1EfpHiQ)
+- [11ty](https://www.11ty.dev/)
+- [11ty Rocks!](https://www.youtube.com/channel/UCTuSQg_Ol4shhSYQ1EfpHiQ)
